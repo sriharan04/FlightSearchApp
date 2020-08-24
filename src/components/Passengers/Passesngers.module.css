@@ -1,0 +1,58 @@
+.btn {
+  height: 2rem;
+  width: 2rem;
+  background-color: darkblue;
+  color: white;
+  border-radius: 1rem;
+  border: none;
+}
+.layout {
+  display: grid;
+  width: 100%;
+  grid-template-rows: repeat(1, 2.5rem);
+  grid-template-columns: repeat(4, 1fr);
+  color: darkblue;
+}
+.adult {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 2rem;
+  margin-top: 0.5rem;
+}
+.adult p {
+  grid-column: 1/2;
+  margin: 0.1rem 0.5rem;
+  width: 2rem;
+}
+.plus {
+  grid-column: 3/4;
+  height: 1.5rem;
+  width: 1.5rem;
+  text-align: center;
+  border-radius: 2rem;
+  background-color: white;
+  font-size: 1rem;
+  border: 1px solid #089aef;
+  justify-self: center;
+  color: #089aef;
+}
+
+.plus + p {
+  grid-column: 4/5;
+  padding-top: 0.2rem;
+  text-align: center;
+  color: #3a2e2e;
+}
+.minus {
+  grid-column: 5/6;
+  height: 1.5rem;
+  width: 1.5rem;
+  text-align: center;
+  border-radius: 2rem;
+  background-color: white;
+  font-size: 1rem;
+  border: 1px solid #089aef;
+  justify-self: center;
+  color: #089aef;
+}

@@ -1,0 +1,28 @@
+.sb_header_layout {
+  grid-row: 2/-1;
+  grid-column: 1/2;
+  display: grid;
+  grid-template-rows: auto;
+  background-color: whitesmoke;
+  z-index: 1;
+}
+@media (max-width: 1150px) {
+  .sb_header_layout {
+    grid-row: 2/-1;
+    grid-column: 2/4;
+    display: grid;
+    grid-template-rows: auto;
+    background-color: whitesmoke;
+    z-index: 1;
+  }
+}
+@media (max-width: 700px) {
+  .sb_header_layout {
+    grid-row: 2/-1;
+    grid-column: 1/-1;
+    display: grid;
+    grid-template-rows: auto;
+    background-color: whitesmoke;
+    z-index: 1;
+  }
+}

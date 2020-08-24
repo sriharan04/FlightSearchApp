@@ -1,0 +1,23 @@
+.roundTirp {
+  grid-column: 2/-1;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 5rem 1fr;
+}
+.depart {
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+
+@media (max-width: 1150px) {
+  .roundTirp {
+    grid-column: 1/-1;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+  .depart {
+    grid-column: 1/2;
+    grid-row: 1/2;
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "W012A3CDEA",
+    "brandname": "Horlicks",
+    "productname": "Horlicks Health and Nutrition drink",
+    "quantity": "500g",
+    "price": "205.00",
+    "MRF": "250.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81zsw9Xzf1L._SX466_.jpg",
+    "offerytext": "18%"
+  },
+  {
+    "id": "W012A3CDEB",
+    "brandname": "Boost",
+    "productname": "Boost Health and Nutrition drink",
+    "quantity": "750g",
+    "price": "329.00",
+    "MRF": "347.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81DfYDGRqmL._SL1500_.jpg",
+    "offerytext": "5%"
+  },
+  {
+    "id": "W012A3CDEC",
+    "brandname": "Bournvita",
+    "productname": "Boost Health drink",
+    "quantity": "1kg",
+    "price": "380.00",
+    "MRF": "400.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51gn%2BccasqL._SX466_.jpg",
+    "offerytext": "5%"
+  },
+  {
+    "id": "W012A3CDED",
+    "brandname": "Horlicks",
+    "productname": "Horlicks Health and Nutrition drink (Chocolate flavor)",
+    "quantity": "1kg",
+    "price": "337.25",
+    "MRF": "355.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71050WZ-xuL._SL1500_.jpg",
+    "offerytext": "5%"
+  },
+  {
+    "id": "W012A3CDEE",
+    "brandname": "Horlicks",
+    "productname": "Mother's Horlicks Health and Nutrition drink (Kesar)",
+    "quantity": "1kg",
+    "price": "525.00",
+    "MRF": "525.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81gGig77OXL._SX466_.jpg",
+    "offerytext": ""
+  },
+  {
+    "id": "W012A3CDEF",
+    "brandname": "Complan",
+    "productname": "Complan Health and Nutrition drink (Chocolate)",
+    "quantity": "1kg",
+    "price": "530.00",
+    "MRF": "550.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81gGig77OXL._SX466_.jpg",
+    "offerytext": "7%"
+  },
+  {
+    "id": "W012A3CDEG",
+    "brandname": "Complan",
+    "productname": "Complan Health and Nutrition drink (Creamy)",
+    "quantity": "1kg",
+    "price": "530.00",
+    "MRF": "550.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61ajP6f6nGL._SX425_.jpg",
+    "offerytext": "7%"
+  },
+  {
+    "id": "W012A3CDEH",
+    "brandname": "Maltova",
+    "productname": "Maltova choclate drink",
+    "quantity": "1kg",
+    "price": "400.00",
+    "MRF": "450.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51-MQXLpy-L.jpg",
+    "offerytext": "12%"
+  },
+  {
+    "id": "W012A3CDEI",
+    "brandname": "Horlicks Protine+",
+    "productname": "Horlicks Protine+ Health drink (Chocolate flavor)",
+    "quantity": "400g",
+    "price": "505.00",
+    "MRF": "520.00",
+    "imageURL": "https://rukminim1.flixcart.com/image/352/352/jy4q3680/milk-drink-mix/d/f/m/400-chocolate-flavour-plastic-bottle-horlicks-protein-plus-original-imafgfwkkej9dhhn.jpeg?q=70",
+    "offerytext": "3%"
+  },
+  {
+    "id": "W012A3CDEJ",
+    "brandname": "Horlicks",
+    "productname": "Horlicks Growth+ Health drink (Chocolate flavor)",
+    "quantity": "400g",
+    "price": "494.00",
+    "MRF": "520.00",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71Wa9R6zmIL._SX425_.jpg",
+    "offerytext": "5%"
+  }
+]

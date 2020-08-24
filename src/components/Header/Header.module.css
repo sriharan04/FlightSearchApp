@@ -1,0 +1,28 @@
+.header_layout {
+  grid-column: 1/-1;
+  grid-row: 1/2;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1rem 1fr;
+  background-color: #0f4c75;
+  color: white;
+}
+
+.title {
+  grid-column: 2/-1;
+  font-size: 1.5rem;
+  margin: 0.5rem 0 0 0.5rem;
+}
+
+@media (max-width: 1150px) {
+  .title {
+    grid-column: 2/-1;
+    font-size: 1.5rem;
+    margin: 0.5rem 0 0 0.5rem;
+    text-align: center;
+  }
+}
+.head_icon {
+  grid-column: 1/2;
+  align-self: center;
+}

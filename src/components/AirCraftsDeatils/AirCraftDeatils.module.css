@@ -1,0 +1,159 @@
+.cover_layout {
+  grid-column: 2/-1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+@media (max-width: 1150px) {
+  .cover_layout {
+    grid-column: 1/-1;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+.aircraft {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+@media (max-width: 1150px) {
+  .aircraft {
+    grid-column: 1/-1;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+.aircraft_layout {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 5rem 1fr;
+  background-color: #e6e7ff;
+}
+@media (max-width: 1150px) {
+  .aircraft_layout {
+    grid-column: 1/-1;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 5rem 1fr;
+    background-color: #e6e7ff;
+  }
+}
+.aircraft_layout1 {
+  grid-column: 1/2;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 5rem 1fr;
+  background-color: #e6e7ff;
+}
+@media (max-width: 1150px) {
+  .aircraft_layout1 {
+    grid-column: 1/-1;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 5rem 1fr;
+    background-color: #e6e7ff;
+  }
+}
+.aircraft_layout2 {
+  grid-column: 2/3;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 5rem 1fr;
+  background-color: #e6e7ff;
+}
+@media (max-width: 1150px) {
+  .aircraft_layout2 {
+    grid-column: 1/-1;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 5rem 1fr;
+    background-color: #e6e7ff;
+  }
+}
+
+.onelist {
+  grid-column: 1/-1;
+  grid-row: 2/-1;
+  background-color: whitesmoke;
+}
+.head_deatils {
+  grid-column: 1/-1;
+  grid-row: 1/2;
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  grid-template-rows: 1fr 1fr;
+  padding-left: 1rem;
+  background-color: whitesmoke;
+}
+.head_icon {
+  grid-column: 1/2;
+  grid-row: 1/-1;
+  align-self: center;
+}
+.head_title {
+  grid-column: 2/3;
+  grid-row: 1/2;
+  align-self: flex-end;
+  font-size: 1.2rem;
+  color: #0f4c75;
+}
+.head_date {
+  grid-row: 2/3;
+  grid-column: 2/3;
+  align-self: flex-start;
+  padding-left: 0.5rem;
+  font-size: 0.9rem;
+  color: darkgray;
+}
+.head_deatils1 {
+  grid-column: 1/2;
+  grid-row: 1/2;
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  grid-template-rows: 1fr 1fr;
+  padding-left: 1rem;
+  background-color: whitesmoke;
+}
+.head_icon1 {
+  grid-column: 1/2;
+  grid-row: 1/-1;
+  align-self: center;
+}
+.head_title1 {
+  grid-column: 2/3;
+  grid-row: 1/2;
+  align-self: flex-end;
+  font-size: 1.2rem;
+  color: #0f4c75;
+}
+.head_date1 {
+  grid-row: 2/3;
+  grid-column: 2/3;
+  align-self: flex-start;
+}
+.head_deatils2 {
+  grid-column: 1/-1;
+  grid-row: 1/2;
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  grid-template-rows: 1fr 1fr;
+  padding-left: 1rem;
+  background-color: whitesmoke;
+}
+.head_icon2 {
+  grid-column: 1/2;
+  grid-row: 1/-1;
+  align-self: center;
+}
+.head_title2 {
+  grid-column: 2/3;
+  grid-row: 1/2;
+  align-self: flex-end;
+  font-size: 1.2rem;
+  color: #0f4c75;
+}
+.head_date2 {
+  grid-row: 2/3;
+  grid-column: 2/3;
+  align-self: flex-start;
+}
